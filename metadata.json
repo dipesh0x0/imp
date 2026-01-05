@@ -1,0 +1,9 @@
+{
+  "name": "ContentPilot V2.1 - Hybrid Edition",
+  "description": "Full-stack Social Media OS with AI Video Factory, Inpainting Studio, and Trend Intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
